@@ -1,0 +1,28 @@
+*{
+	font-family: all;
+}
+h5#ins{
+	float: left;
+	color: blue;
+}
+h5#log{
+	float: right;
+	color: blue;
+}
+#im{
+	border-radius: 50px;
+	width: 100px;
+	height: 100px;
+}
+#bd{
+	padding-top: 30px;
+
+}
+#oop{
+	opacity: 30%;
+	float: right;
+}
+/*Exe7.html*/
+table.cal{
+	
+}
